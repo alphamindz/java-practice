@@ -523,7 +523,7 @@ Transaction process completed.
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - JDK 17 or higher *(recommended for modern Java features)*
 - IDE: IntelliJ IDEA, Eclipse, or VS Code with Java Extension Pack
@@ -531,7 +531,7 @@ Transaction process completed.
 
 ---
 
-## 📌 Installation & Usage
+##  Installation & Usage
 
 1. **Clone the repository:**
 ```bash
