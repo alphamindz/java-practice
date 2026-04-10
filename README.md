@@ -23,7 +23,7 @@ This repository serves as a comprehensive collection of my Java programming jour
 
 ---
 
-### 🔁 1.1 Loops
+###  1.1 Loops
 
 #### For Loop
 ```java
@@ -65,7 +65,7 @@ public class DoWhileExample {
 
 ---
 
-### 🔀 1.2 Conditionals
+###  1.2 Conditionals
 
 #### If-Else
 ```java
