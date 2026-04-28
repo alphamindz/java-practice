@@ -1,11 +1,11 @@
 # java-practic
-# ☕ Java Mastery & Algorithms
+#  Java Mastery & Algorithms
 
 This repository serves as a comprehensive collection of my Java programming journey, covering everything from core fundamentals to advanced multi-threaded systems and algorithmic analysis.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── Basic_Logic/          # Loops, Conditionals, and Patterns
