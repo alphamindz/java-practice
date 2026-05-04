@@ -17,7 +17,7 @@ This repository serves as a comprehensive collection of my Java programming jour
 
 ---
 
-## 📁 Module 1 — Basic Logic
+## Module 1 — Basic Logic
 
 > Covers fundamental programming constructs: loops, conditionals, and pattern printing.
 
